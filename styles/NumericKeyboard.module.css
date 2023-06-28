@@ -1,0 +1,48 @@
+.titleDeposito{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.titleMonto{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 16rem;
+    top: 4rem;
+    font-weight: 400;
+}
+
+.btnCancelarMonto{
+    left: 5rem;    
+    top: 3rem;
+}
+
+.containerTecladoDeposito{
+    width: 65% !important;
+    position: relative;
+    left: 4rem;
+    top: 2rem;
+}
+
+
+.MuiGrid-item{
+    padding: 0 !important;
+}
+.btns{
+    width: 6.5vw;
+    padding: 10px;
+
+}
+
+@media (max-width: 1500px)  {
+    .btns{
+        width: 7vw
+    }
+}
+
+@media (max-width: 920px)  {
+    .btns{
+        width: 8vw
+    }
+}

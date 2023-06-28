@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "name": "Franco", "clave": "1235", "dni":"12345678","accountNumber" : "asd123", "balance": 12000},
+      { "id": 2, "name": "Matias", "clave": "1145", "dni":"42551215","accountNumber" : "asd123", "balance": 200},
+      { "id": 3, "name": "Leonel", "clave": "6341", "dni":"45123612","accountNumber" : "asd123", "balance": 120},
+      { "id": 4, "name": "Neri", "clave": "3226", "dni":"36612331","accountNumber" : "asd123", "balance": 700}
+    ]
+  }

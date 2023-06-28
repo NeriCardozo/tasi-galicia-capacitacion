@@ -1,0 +1,21 @@
+.otherAmountTitle{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.cancelButton {
+    position: relative;
+    top: 100px;
+    left: 20px
+}
+
+.extractionValue {
+    position: relative;
+    top: 95px;
+    left: 40px;
+}
+
+.extractionNumber {
+    font-size: 34px;
+}
